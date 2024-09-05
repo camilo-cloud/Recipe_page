@@ -62,7 +62,7 @@ span{
     display: flex;
     flex-direction: column;
     padding: 40px;
-    gap: 2.5rem;  
+    gap: 4rem;  
     margin-bottom: 70px;
     width: 100%; 
     max-width: 45rem; 
